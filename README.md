@@ -11,3 +11,6 @@ an efficient structure was made to quickly change the color of thermochromic pig
 (NCV7719) were used to control the current flow going to each woven nitinol structure. 
 A teensy was used for the microcontroller of the project. 
 For the viewer to pick a pattern a Micro Oled was attached to provide assistance.
+## Interconnection of the system
+![https://github.com/brittany335/Pattern-Control/blob/master/interconnection.png](interconnection.png)
+##Schematic 
