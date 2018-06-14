@@ -17,3 +17,11 @@ For the viewer to pick a pattern a Micro Oled was attached to provide assistance
 ## Schematic
 please note: the LEDS shown in the schematic are a placeholder for the nitinol pieces
 ![https://github.com/brittany335/Pattern-Control/blob/master/schematic.png](schematic.png)
+
+## Finite State Machine
+![https://github.com/brittany335/Pattern-Control/blob/master/Scan%202.jpeg](Scan%202.jpeg)
+
+## Links to Hardware 
+NCV7719:
+
+
