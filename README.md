@@ -22,6 +22,9 @@ please note: the LEDS shown in the schematic are a placeholder for the nitinol p
 ![https://github.com/brittany335/Pattern-Control/blob/master/Scan%202.jpeg](Scan%202.jpeg)
 
 ## Links to Hardware 
-NCV7719:
+NCV7719: https://github.com/brittany335/Pattern-Control/blob/master/NCV7719-D.PDF
+Teensy 3.2: https://www.pjrc.com/store/teensy32.html
+Micro OLED breakout: https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library and https://learn.sparkfun.com/tutorials/micro-oled-breakout-hookup-guide
+Nitinol: https://www.robotshop.com/en/dynalloy-flexinol-005-ht-actuator-wire.html
 
 
