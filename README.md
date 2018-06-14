@@ -13,4 +13,7 @@ A teensy was used for the microcontroller of the project.
 For the viewer to pick a pattern a Micro Oled was attached to provide assistance.
 ## Interconnection of the system
 ![https://github.com/brittany335/Pattern-Control/blob/master/interconnection.png](interconnection.png)
-##Schematic 
+
+## Schematic
+please note: the LEDS shown in the schematic are a placeholder for the nitinol pieces
+![https://github.com/brittany335/Pattern-Control/blob/master/schematic.png](schematic.png)
