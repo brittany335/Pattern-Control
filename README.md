@@ -19,7 +19,7 @@ please note: the LEDS shown in the schematic are a placeholder for the nitinol p
 ![https://github.com/brittany335/Pattern-Control/blob/master/schematic.png](schematic.png)
 
 ## Finite State Machine
-![https://github.com/brittany335/Pattern-Control/blob/master/Scan%202.jpeg](Scan%202.jpeg)
+![https://github.com/brittany335/Pattern-Control/blob/master/finite.png](finite.png)
 
 ## Links to Hardware 
 NCV7719: https://github.com/brittany335/Pattern-Control/blob/master/NCV7719-D.PDF
