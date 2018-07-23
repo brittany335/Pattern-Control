@@ -1,6 +1,6 @@
-# Pattern Control
+# Therma Pattern
 This project uses two NCV7719 chips combined with a Mirco OLED Breakout and Teensy 3.2 to control Nitinol covered in thermochromic paint. 
-## About the Pattern Control 
+## About the Therma Pattern 
 This Aruino code controls 21 woven nitinol pieces painted over with thermochromic 
 pigment to change color. Thermochromic pigment changes color based on temperature, 
 the more heat applied the quicker it will change. Current is a great way to heat up nitinol 
